@@ -1,6 +1,6 @@
 # Hi, I'm Suyan 👋 
 
-**Full-Stack Software Developer | BCA Student** Specializing in high-performance web and mobile applications using the T3 stack and React Native. Currently based in Pokhara.
+
 
 ---
 
