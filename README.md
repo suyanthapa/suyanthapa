@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/profile.png" width="200" style="border-radius:50%" />
-</p>
+![My Photo](/profile.png)>
 ## Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyanthapa&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyanthapa&layout=compact&theme=dark)
