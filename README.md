@@ -1,4 +1,4 @@
-![My Photo](/profile.png)
+![My Photo](/profile1.png)
 
 ## Languages and Framework: 
 <div align="center">
