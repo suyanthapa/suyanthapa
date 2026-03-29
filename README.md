@@ -1,5 +1,5 @@
-![My Photo](/profile.png)>
-## Hi there 👋
+![My Photo](/profile.png)
+
 ## Languages and Framework: 
 <div align="center">
 
@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 <br><br>
+<hr style="width:60%; margin: 20px auto;" />
 
 <!-- State Management -->
 <h3>🧠 State Management</h3>
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 
 <br><br>
+<hr style="width:60%; margin: 20px auto;" />
 
 <!-- Databases -->
 <h3>🗄️ Databases & ORM</h3>
@@ -34,7 +36,7 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
 <br><br>
-
+<hr style="width:60%; margin: 20px auto;" />
 <!-- DevOps -->
 <h3>⚙️ DevOps & Deployment</h3>
 
@@ -44,6 +46,7 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
 <br><br>
+<hr style="width:60%; margin: 20px auto;" />
 
 <!-- Testing -->
 <h3>🧪 Testing & Tools</h3>
@@ -53,13 +56,14 @@
 <img src="https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge" />
 
 <br><br>
+<hr style="width:60%; margin: 20px auto;" />
 
 <!-- Concepts -->
 <h3>🏗️ Architecture & Concepts</h3>
 
 <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Repository_Pattern-Design-blueviolet?style=for-the-badge" />
-
+<hr style="width:60%; margin: 20px auto;" />
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyanthapa&layout=compact&theme=dark)
