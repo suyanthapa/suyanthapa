@@ -3,24 +3,62 @@
 ## Languages and Framework: 
 <div align="center">
 
+<h2>🚀 Tech Stack</h2>
+
+<!-- Languages & Frameworks -->
 <h3>🚀 Languages & Frameworks</h3>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
+<br><br>
+
+<!-- State Management -->
+<h3>🧠 State Management</h3>
+
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+
+<br><br>
+
+<!-- Databases -->
 <h3>🗄️ Databases & ORM</h3>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-<h3>⚙️ DevOps & Tools</h3>
+<br><br>
+
+<!-- DevOps -->
+<h3>⚙️ DevOps & Deployment</h3>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+<br><br>
+
+<!-- Testing -->
+<h3>🧪 Testing & Tools</h3>
+
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge" />
+
+<br><br>
+
+<!-- Concepts -->
+<h3>🏗️ Architecture & Concepts</h3>
+
+<img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repository_Pattern-Design-blueviolet?style=for-the-badge" />
 
 </div>
 
