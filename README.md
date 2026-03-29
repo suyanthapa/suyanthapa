@@ -15,8 +15,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-<br><br>
-<hr style="width:60%; margin: 20px auto;" />
+<br>
 
 <!-- State Management -->
 <h3>🧠 State Management</h3>
@@ -24,8 +23,8 @@
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 
-<br><br>
-<hr style="width:60%; margin: 20px auto;" />
+<br>
+
 
 <!-- Databases -->
 <h3>🗄️ Databases & ORM</h3>
@@ -35,8 +34,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-<br><br>
-<hr style="width:60%; margin: 20px auto;" />
+<br>
+
 <!-- DevOps -->
 <h3>⚙️ DevOps & Deployment</h3>
 
@@ -45,7 +44,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
-<br><br>
+<br>
 <hr style="width:60%; margin: 20px auto;" />
 
 <!-- Testing -->
@@ -55,15 +54,15 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge" />
 
-<br><br>
-<hr style="width:60%; margin: 20px auto;" />
+<br>
+
 
 <!-- Concepts -->
 <h3>🏗️ Architecture & Concepts</h3>
 
 <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Repository_Pattern-Design-blueviolet?style=for-the-badge" />
-<hr style="width:60%; margin: 20px auto;" />
+
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyanthapa&layout=compact&theme=dark)
@@ -71,3 +70,34 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suyanthapa&theme=dark&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyanthapa&theme=react-dark)
 
+<!-- ================= FOOTER ================= -->
+<hr style="width:60%; margin: 40px auto; border: 1px solid #ccc;" />
+
+<div align="center">
+
+<h3> Check my articles & Connect with me</h3>
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/suyantm_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <!-- Medium -->
+  <a href="https://medium.com/@suyanthapa07" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+
+  <!-- Email -->
+  <a href="mailto:suyanthapa07@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<p>Made with ❤️ by <strong>Suyanthapa</strong></p>
+
+</div>
