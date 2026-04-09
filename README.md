@@ -25,7 +25,6 @@
 
 <br>
 
-
 <!-- Databases -->
 <h3>🗄️ Databases & ORM</h3>
 
@@ -43,8 +42,10 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
 <br>
+
 <hr style="width:60%; margin: 20px auto;" />
 
 <!-- Testing -->
@@ -53,9 +54,9 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 <br>
-
 
 <!-- Concepts -->
 <h3>🏗️ Architecture & Concepts</h3>
@@ -70,7 +71,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suyanthapa&theme=dark&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suyanthapa&theme=react-dark)
 
-<!-- ================= FOOTER ================= -->
 <hr style="width:60%; margin: 40px auto; border: 1px solid #ccc;" />
 
 <div align="center">
@@ -79,21 +79,18 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
 
-  
-  <!-- Instagram -->
   <a href="https://www.instagram.com/suyantm_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <!-- Medium -->
+
   <a href="https://medium.com/@suyanthapa07" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
-
-  <!-- Email -->
   <a href="mailto:suyanthapa07@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </div>
 
 <br>
